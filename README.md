@@ -30,5 +30,5 @@ The dashboard provides insights into:
 - Top production countries
 - Release year trends
 
-This Netflix Dashboard project demonstrates the power of combining robust data analysis with intuitive visualization tools to extract meaningful insights from large datasets[1][3][7].
+This Netflix Dashboard project demonstrates the power of combining robust data analysis with intuitive visualization tools to extract meaningful insights from large datasets.
 
